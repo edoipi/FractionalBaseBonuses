@@ -1,0 +1,10 @@
+﻿{
+  "AssemblyName": "FractionalBaseBonuses.dll",
+  "Author": "edoipi",
+  "DisplayName": "Fractional Base Bonuses",
+  "EntryMethod": "FractionalBaseBonuses.Main.Load",
+  "Id": "FractionalBaseBonuses",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "Version": "1.0.0"
+}
